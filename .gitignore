@@ -1,0 +1,9 @@
+*.sch-bak
+*.kicad_pcb-bak
+*.tmp
+*.lib
+*.dcm
+/Sim
+/Differential_Probe_v1r1-backups
+sym-lib-table
+fp-info-cache
